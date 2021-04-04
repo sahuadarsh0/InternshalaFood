@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Food Runner</string>
+    <string name="tagline">Welcome Foodies!</string>
+
+    <string name="api_url">http://13.235.250.119/v2/</string>
+    <string name="token">01eece390a2f54</string>
+
+
+    <string name="close_drawer">Close Drawer</string>
+    <string name="open_drawer">Open Drawer</string>
+
+    <string name="shared_preferences">FoodRunnerPreference</string>
+    <string name="previous_orders">Your previous orders are listed below:</string>
+
+    <string name="no_restaurant">No Restaurant with that name </string>
+
+    <string name="login">Login</string>
+    <string name="enter_phone">Mobile Number(10 digits)</string>
+    <string name="enter_password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="sign_up_text">Don\'t Have an Account? Sign Up Here!</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="enter_name">Enter Name (Min 4 Characters)</string>
+    <string name="enter_new_password_min">Enter New Password (Min 6 Characters)</string>
+    <string name="enter_password_min">Enter Password (Min 6 Characters)</string>
+    <string name="enter_re_password">Re-Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_address">Enter Delivery Address</string>
+    <string name="retrieve_account">Retrieve Account</string>
+    <string name="log_out">Log Out</string>
+    <string name="sort">Sort By</string>
+
+
+    <string name="retry">Retry</string>
+    <string name="no_internet">Not Connected to the Internet!</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="otp">Enter the received OTP below.</string>
+    <string name="enter_otp">Enter OTP (4 Characters)</string>
+    <string name="choose_from_menu_listed_below">Choose from menu listed below :</string>
+    <string name="proceed_to_cart">Proceed To Cart</string>
+    <string name="your_order_has_been_successfully_placed">Your order has been successfully placed!</string>
+    <string name="ok">OK</string>
+    <string name="place_order">Place Order</string>
+    <string name="ordering_from">Ordering From:</string>
+    <string name="no_previous_orders">No Previous Orders!</string>
+    <string name="no_favorites_added_yet">No Favorites added yet!</string>
+    <string name="rating">Rating</string>
+    <string name="price_ascending">Price (Ascending)</string>
+    <string name="price_descending">Price (Descending)</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="favourite_restaurants">Favourite Restaurants</string>
+    <string name="order_history">Order History</string>
+    <string name="faqs">FAQs</string>
+    <string name="question">Question ?</string>
+    <string name="answer">answer</string>
+    <string name="my_name">Adarsh Sahu</string>
+    <string name="my_mobile">+91 9090909090</string>
+    <string name="search_restaurants">Search Restaurants</string>
+    <string name="my_rating">4.5</string>
+    <string name="my_price">300/person</string>
+    <string name="my_restaurant">Pind Tadka</string>
+    <string name="my_email">abc@xyz.com</string>
+    <string name="my_address">Bilaspur</string>
+    <string name="enter_your_registered_mobile_number_and_email_below">Enter your registered mobile number and email below :</string>
+    <string name="my_date">22/12/2018</string>
+
+
+</resources>

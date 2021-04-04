@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        app:srcCompat="@drawable/ic_minus"
+        tools:ignore="ContentDescription" />
+
+    <TextView
+        android:id="@+id/tvCartItemName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:textSize="15sp"
+        android:textColor="@color/lighterGray"
+        android:layout_weight="1"
+        tools:text="Burnt Chicken Baco" />
+
+    <TextView
+        android:id="@+id/tvCartItemPrice"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:textSize="18sp"
+        android:textAlignment="viewEnd"
+        android:textColor="@color/lighterGray"
+        android:layout_weight="0.2"
+        tools:text="Rs.200" />
+
+</LinearLayout>
