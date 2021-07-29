@@ -3,7 +3,7 @@
     <string name="tagline">Welcome Foodies!</string>
 
     <string name="api_url">http://13.235.250.119/v2/</string>
-    <string name="token">01eece390a2f54</string>
+    <string name="token">Your Token Key</string>
 
 
     <string name="close_drawer">Close Drawer</string>
