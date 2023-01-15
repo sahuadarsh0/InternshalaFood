@@ -1,9 +1,8 @@
 ## Internshala App-a-thon Challenge
-
-This app is Demo Solution of the Android App Challenge
+I won 🏅 third prize 🏆 for this project
+This app is Demo Solution of the Android App Challenge 😎
 
 ### ScreenShots
-
 
 ![1st](https://raw.githubusercontent.com/sahuadarsh0/InternshalaFood/master/ScreenShots/Screenshot_20210803-084137.png)
 ![2nd](https://raw.githubusercontent.com/sahuadarsh0/InternshalaFood/master/ScreenShots/Screenshot_20210803-084141.png)
